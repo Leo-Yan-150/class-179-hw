@@ -87,3 +87,5 @@ btn=Button(root,text="Check",command=gaem.check, highlightbackground='#E6E6FA')
 btn.place(relx=0.35,rely=0.8,anchor=CENTER)
 
 root.mainloop()
+
+#This took me 2 hours to make....
